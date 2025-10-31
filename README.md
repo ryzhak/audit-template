@@ -17,6 +17,9 @@
         }
     }
     /* code styles */
+    html body pre {
+        page-break-inside: auto;
+    }
     html body pre code {
         text-wrap: wrap;
     }
